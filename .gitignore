@@ -131,4 +131,4 @@ dist
 
 #solidality compile stuff
 artifacts
-caches
+cache
